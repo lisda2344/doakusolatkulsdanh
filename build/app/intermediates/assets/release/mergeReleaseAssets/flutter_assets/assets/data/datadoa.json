@@ -1,0 +1,83 @@
+[
+  
+  {
+    "id": 1,
+    "name": "Do'a Keselamatan",
+    "arabic": "اَللهُمَّ اِنَّا نَسْئَلُكَ سَلاَمَةً فِى الدِّيْنِ وَعَافِيَةً فِى الْجَسَدِ وَزِيَادَةً فِى الْعِلْمِ وَبَرَكَةً فِى الرِّزْقِ وَتَوْبَةً قَبْلَ الْمَوْتِ وَرَحْمَةً عِنْدَ الْمَوْتِ وَمَغْفِرَةً بَعْدَ الْمَوْتِ. اَللهُمَّ هَوِّنْ عَلَيْنَا فِىْ سَكَرَاتِ الْمَوْتِ وَالنَّجَاةَ مِنَ النَّارِ وَالْعَفْوَ عِنْدَ الْحِسَابِ ",
+    "latin" : "Allahumma inna nas-aluka salamatan fiddin wa afiyatan fil-jasadi wa ziyadatan fil-ilmi wa barakatan firrizqi, wa taubatan qablal-maut, wa rahmatan indal-maut, wa maghfiratan ba'dal maut Allahumma hawwin alaina fi sakaratil maut, wannajatan minannaari, wal afwa indah hisab",
+    "terjemahan": "Ya Allah, kami memohon kepada Engkau akan keselamatan agama, kesehatan badan, tambahnya pengetahuan, berkahnya rezeki, mendapatkan tobat sebelum mati, mendapat rahmat ketika mati, mendapat ampunan sesudah mati Dan ringankanlah kiranya dalam sakaratul maut, dan selamatkanlah kiranya dari siksa neraka dan dapatkan kami ampunan pada hari hisab (perhitungan)."
+  },
+
+  {
+    "id": 2,
+    "name": "Do'a Untuk Orang Tua",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِيْ وَلِوَالِدَيَّ وَلِجَمِيْعِ الْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ الْأَحْيَاءِ مِنْهُمْ وَالْأَمْوَاتِ",
+    "latin": "Allahummaghfir li wa liwalidayya wa lil-mu'minina wal-mu'minat wal muslimina wal muslimat, al-ahya'i minhum wal-amwat.",
+    "terjemahan": "Ya Allah, ampunilah aku, orang tuaku, dan seluruh kaum muslimin dan muslimat, baik yang masih hidup maupun yang telah meninggal."
+  },
+
+  {
+    "id": 3,
+    "name": "Do'a Meminta ilmu bermanfaat",
+    "arabic": "اللَّهُمَّ إنِّي أَسْأَلُكَ عِلْماً نَافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً",
+    "latin": "Allahumma inni as-aluka ilman nafi'an wa rizqan thayyiban, wa 'amalan mutaqabbalan.",
+    "terjemahan": "AYa Allah! Sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik dan amalan yang diterima"
+  },
+  
+  {
+    "id": 4,
+    "name": "Do'a Membuka pintu rezki",
+    "arabic": "االلَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْفَقْرِ وَالْقِلَّةِ وَالذِّلَّةِ وَأَعُوذُ بِكَ مِنْ أَنْ أَظْلِمَ أَوْ أُظْلَمَ",
+    "latin": "Allaahumma innii a'udzubika minal faqri, wal qillati, wadz dzillati, wa a'idzubika min an adzhlima aw udzhlaama",
+    "terjemahan": "Ya Allah, aku berlindung kepada-Mu dari kefakiran, kemiskininan, kehinaan. Dan aku berlindung kepada-Mu jangan sampai aku mendzalimi atau didzalimi"
+  },
+
+  {
+    "id": 5,
+    "name": "Do'a Panjang Umur",
+    "arabic": "اَللّٰهُمَّ طَوِّلْ عُمُوْرَنَا وَصَحِّحْ أَجْسَادَنَا وَنَوِّرْ قُلُوْبَنَا وَثَبِّتْ إِيْمَانَنَا وَأَحْسِنْ أَعْمَالَنَا وَوَسِّعْ أَرْزَقَنَا وَإِلَى الْخَيْرِ قَرِّبْنَا وَعَنِ الشَّرِّ اَبْعِدْنَا وَاقْضِ حَوَائِجَنَا فِى الدِّيْنِ وَالدُّنْيَا وَالْاٰخِرَةِ إِنَّكَ عَلَى كُلِّ شَىْءٍ قَدِيْرٌ",
+    "latin": "Ushalli fardhol 'isyaa-i arba'a raka'aatim mustaqbilal qiblati adaa-an lillaahi ta'Allaahumma thowwil umuurana, wa shohhih ajsaadana, wa nawwir quluubana, wa sabbit iimaananaa wa ahsin a'maalanaa, wa wassi' arzaqanaa, wa ilal khairi qarribnaa wa 'anisy-syarri ab'idnaa, waqdhikhawaa-ijana fiddiini waddunyaa wal aakhirati innaka 'alaa kulli syai-in qadiir",
+    "terjemahan": "Ya Allah, panjangkanlah umur kami, sehatkanlah jasad kami, terangilah hati kami, tetapkanlah iman kami, baikkanlah amalan kami, luaskanlah rezeki kami, dekatkanlah kami pada kebaikan dan jauhkanlah kami dari kejahatan, kabulkanlah segala kebutuhan kami dalam pada agama, dunia, dan akhirat. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu"
+  },
+
+  {
+    "id": 6,
+    "name": "Do'a Memohon Perlindungan dari orang Jahat",
+    "arabic": "اَللّٰهُمَّ إِنِّيْ أَعُوْذُبِكَ مِنْ جَهْدِ الْبَلَاءِ، وَدَرَكِ الشَّقَاءِ، وَسُوْءِ الْقَضَاءِ، وَشَمَاتَةِ الْأَعْدَاءِ",
+    "latin": "Allahumma innii a-'uudzubika min jahdil balaa-i, wa darakisy syaqaa-i, wa suu-il qadhaa-i, wa syamaatatil a'daa-i",
+    "terjemahan": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari susahnya bala (bencana), hinanya kesengsaraan, keburukan qadha' (takdir), dan kegembiraan para musuh." 
+  },
+
+  {
+    "id": 7,
+    "name": "Do'a Keselamatan Dunia Akhirat",
+    "arabic": "رَبَّنَاا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "latin": "Rabbana aatina fiddunya hasanah wa fil-akhirati hasanah, wa qinaa adzabannaari",
+    "terjemahan": "YYa Tuhan kami, berikanlah kepada kami kebaikan di dunia dan di akhirat, serta peliharalah kami dari siksa neraka."
+  },
+
+  {
+    "id": 8,
+    "name": "Do'a Agar Terhindar Dari Siksa Kubur",
+    "arabic": " وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ كَذِبًا اَوْ قَالَ اُوْحِيَ اِلَيَّ وَلَمْ يُوْحَ اِلَيْهِ شَيْءٌ وَّمَنْ قَالَ سَاُنْزِلُ مِثْلَ مَآ اَنْزَلَ اللّٰهُ ۗوَلَوْ تَرٰٓى اِذِ الظّٰلِمُوْنَ فِيْ غَمَرٰتِ الْمَوْتِ وَالْمَلٰۤىِٕكَةُ بَاسِطُوْٓا اَيْدِيْهِمْۚ اَخْرِجُوْٓا اَنْفُسَكُمْۗ اَلْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُوْنِ بِمَا كُنْتُمْ تَقُوْلُوْنَ عَلَى اللّٰهِ غَيْرَ الْحَقِّ وَكُنْتُمْ عَنْ اٰيٰتِهٖ تَسْتَكْبِرُوْنَ",
+    "latin": "Ushalli fardhol 'isyaa-i arba'a raka'aatim mustaqbilal qiblati adaa-an lillaahi ta'Allaahumma thowwil umuurana, wa shohhih ajsaadana, wa nawwir quluubana, wa sabbit iimaananaa wa ahsin a'maalanaa, wa wassi' arzaqanaa, wa ilal khairi qarribnaa wa 'anisy-syarri ab'idnaa, waqdhikhawaa-ijana fiddiini waddunyaa wal aakhirati innaka 'alaa kulli syai-in qadiir",
+    "terjemahan": " Telah diwahyukan kepadaku, padahal tidak diwahyukan sesuatu pun kepadanya dan orang yang berkata, Aku akan mendatangkan seperti yang diturunkan Allah. Seandainya saja engkau melihat pada waktu orang-orang zalim itu (berada) dalam kesakitan sakratulmaut, sedang para malaikat memukul dengan tangannya (sembari berkata), Keluarkanlah nyawamu! Pada hari ini kamu akan dibalas dengan azab yang sangat menghinakan karena kamu mengatakan terhadap Allah (perkataan) yang tidak benar dan (karena) kamu menyombongkan diri terhadap ayat-ayat-Nya"
+  },
+
+  {
+    "id": 9,
+    "name": "Do'a Panjang Umur",
+    "arabic": "اَللّٰهُمَّ طَوِّلْ عُمُوْرَنَا وَصَحِّحْ أَجْسَادَنَا وَنَوِّرْ قُلُوْبَنَا وَثَبِّتْ إِيْمَانَنَا وَأَحْسِنْ أَعْمَالَنَا وَوَسِّعْ أَرْزَقَنَا وَإِلَى الْخَيْرِ قَرِّبْنَا وَعَنِ الشَّرِّ اَبْعِدْنَا وَاقْضِ حَوَائِجَنَا فِى الدِّيْنِ وَالدُّنْيَا وَالْاٰخِرَةِ إِنَّكَ عَلَى كُلِّ شَىْءٍ قَدِيْرٌ",
+    "latin": "Ushalli fardhol 'isyaa-i arba'a raka'aatim mustaqbilal qiblati adaa-an lillaahi ta'Allaahumma thowwil umuurana, wa shohhih ajsaadana, wa nawwir quluubana, wa sabbit iimaananaa wa ahsin a'maalanaa, wa wassi' arzaqanaa, wa ilal khairi qarribnaa wa 'anisy-syarri ab'idnaa, waqdhikhawaa-ijana fiddiini waddunyaa wal aakhirati innaka 'alaa kulli syai-in qadiir",
+    "terjemahan": "Ya Allah, panjangkanlah umur kami, sehatkanlah jasad kami, terangilah hati kami, tetapkanlah iman kami, baikkanlah amalan kami, luaskanlah rezeki kami, dekatkanlah kami pada kebaikan dan jauhkanlah kami dari kejahatan, kabulkanlah segala kebutuhan kami dalam pada agama, dunia, dan akhirat. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu"
+  },
+
+  {
+    "id": 10,
+    "name": "Do'a Agar mendapatkan Rizky Manfaat",
+    "arabic": "راللَّهُمَّ أكْثِرْ مَالِي، وَوَلَدِي، وَبَارِكْ لِي فِيمَا أعْطَيْتَنِي وَأطِلْ حَيَاتِي عَلَى طَاعَتِكَ، وَأحْسِنْ عَمَلِي وَاغْفِرْ لِي",
+    "latin": "Allahumma ak-tsir maalii wa waladii, wa baarik lii fiimaa a'thoitanii wa athil hayaatii 'ala tho'atik wa ahsin 'amalii wagh-fir lii.",
+    "terjemahan": "Ya Allah perbanyaklah harta dan anakku serta berkahilah karunia yang Engkau beri. Panjangkanlah umurku dalam ketaatan pada-Mu dan baguskanlah amalku serta ampunilah dosa-dosaku"
+  }
+
+]

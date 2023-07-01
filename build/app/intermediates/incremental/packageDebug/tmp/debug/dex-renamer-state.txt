@@ -1,0 +1,4 @@
+#Fri Jun 23 01:58:10 ICT 2023
+base.0=D\:\\Mata Kuliah\\Semester 6\\prak mobile\\pertemuan_4\\doakusolatkulisdanurhaqiqi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

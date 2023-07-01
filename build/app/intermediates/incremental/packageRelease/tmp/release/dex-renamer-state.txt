@@ -1,0 +1,4 @@
+#Sun Jun 25 14:42:44 ICT 2023
+base.0=D\:\\Mata Kuliah\\Semester 6\\prak mobile\\pertemuan_4\\doakusolatkulisdanurhaqiqi\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
